@@ -39,7 +39,16 @@ Complete this section and commit your changes.
 
 Copy and paste your programs output here:
 ```
-# here goes your output
+9
+8
+7
+6
+5
+4
+3
+2
+1
+It is time for data structures.
 ```
 
 Once you have added `output.png` to the repository, the screenshot should show up below on github.
